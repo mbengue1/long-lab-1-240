@@ -1,0 +1,11 @@
+# Ignore documentation file
+documentation.md
+
+# Ignore data folder (except CSV files which are already tracked)
+data/
+
+# Ignore system files
+.DS_Store
+
+# Ignore downloaded zip files
+*.zip
